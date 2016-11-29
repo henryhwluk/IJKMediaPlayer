@@ -1,5 +1,5 @@
 # IJKMediaPlayer
-A null lib Demo just for ijkplayer test.
+A null lib demo pack ijkplayer framework just for ijkplayer test.
 
 # Example
  [ijkplayer Demo](https://github.com/Bilibili/ijkplayer/blob/master/ios/IJKMediaDemo/IJKMediaDemo/IJKMoviePlayerViewController.m)
